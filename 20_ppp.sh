@@ -6,7 +6,7 @@
 # autor:
 #############################################################
 
-# mostra a saída do comando ls
+# mostra a saída do comando dir
 
 # mostra só as  primeiras liñas da saída de ls
 
