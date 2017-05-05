@@ -7,7 +7,7 @@
 ##########################################################
 
 
-# crea un ficheiro dentro de /tmp
+# crea un ficheiro 
 
 # cámbialle o nome 
 
