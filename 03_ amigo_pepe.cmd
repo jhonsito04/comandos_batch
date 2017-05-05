@@ -6,7 +6,7 @@
 # autor:
 ########################################################
 
-# Crear  directorio /tmp/pepe/
+# Crear  directorio chamado pepe
 
 # Copiar todos os arquiivos do noso directorio $HOME ó directorio /tmp/pepe/  
 
