@@ -6,10 +6,8 @@
 # autor:
 #############################################################
 
-# mostra o contido de /tmp
+# mostra o contido dun directorio
 
-# crea un ficheiro dentro de /tmp chamado ttt.txt
+# crea un ficheiro dentro chamado ttt.txt
 
 # cámbialle o nome a xxx.txt
-
-# copia o ficheiro xxx.txt ó directorio no que estás
