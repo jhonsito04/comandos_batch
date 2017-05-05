@@ -6,7 +6,7 @@
 # autor:
 ####################################################################
 
-# Pedir ó usuario o nome do directorio
+# Pedir ó usuario o nome do directorio que quere crear
 
 # Crear  directorio 
 
