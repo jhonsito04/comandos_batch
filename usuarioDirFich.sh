@@ -6,14 +6,14 @@
 # autor:
 #############################################################
 
-# crea dentro do directorio /tmp un novo directorio co nome que lle quera dar o usuario
+# crea  un novo directorio co nome que lle quera dar o usuario
 
 # dentro do directorio dous ficheiros cos nomes que desexe o  usuario 
 
 
-# o primeiro ficheiro será a saída do comando history 
+# o primeiro ficheiro será a saída do comando ipconfig 
 
-# o segundo ficheiro será o listado do directorio /etc
+# o segundo ficheiro será o listado do directorio no que está
 
 # engade todos os permisos a todos os usuarios a eses dous ficheiros
  
