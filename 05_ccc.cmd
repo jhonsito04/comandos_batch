@@ -1,20 +1,20 @@
-#!
-#########################################################
-#
-# Mover ficheiros
-#
-# autor:
-##########################################################
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::
+:: Mover ficheiros
+::
+:: autor:
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
-# crea un ficheiro 
+:: crea un ficheiro 
 
-# cámbialle o nome 
+:: cámbialle o nome 
 
-# móveo ó Escritorio
+:: móveo ó Escritorio
 
-# cámbialle o nome
+:: cámbialle o nome
 
-# cópiao no teu directorio de traballo
+:: cópiao no teu directorio de traballo
 
-# borra os ficheiros creados 
+:: borra os ficheiros creados 
