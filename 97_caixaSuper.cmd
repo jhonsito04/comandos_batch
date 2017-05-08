@@ -29,3 +29,5 @@
 
 
 # Mostra na pantalla a suma dos tres prezos
+
+# Envía a un ficheiro chamado tiquet.txt o resultado da compra
