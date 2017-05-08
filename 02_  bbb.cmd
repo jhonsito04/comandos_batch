@@ -1,13 +1,14 @@
-#!
-##############################################################
-#
-# Cambiar nomes e copiar ficheiros
-#
-# autor:
-#############################################################
 
-# mostra o contido dun directorio
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::
+:: Cambiar nomes e copiar ficheiros
+::
+:: autor:
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-# crea un ficheiro dentro chamado ttt.txt
 
-# cámbialle o nome a xxx.txt
+:: mostra o contido dun directorio
+
+:: crea un ficheiro dentro chamado ttt.txt
+
+:: cámbialle o nome a xxx.txt
