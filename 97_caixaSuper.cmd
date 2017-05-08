@@ -1,33 +1,32 @@
 
 
 
-# Engade arriba a primeira liña de todos os scripts
+:: Engade arriba a primeira liña de todos os scripts
 
-#
-############################################################
-#
-# Título: Programando a caixa rápida dun supermercado
-#
-# Nome do autor:
-#
-# Enderezo do blog: 
-#
-# Sistema operativo: 
-#
-#############################################################
-
-# Saúda educadamente ó usuario
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::
+:: Título: Programando a caixa rápida dun supermercado
+::
+:: Nome do autor:
+::
+:: Enderezo do blog: 
+::
+:: Sistema operativo: 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
-# Pide  o prezo do primeiro producto
+:: Saúda educadamente ó usuario
 
 
-# Pide  o prezo do segundo producto
+:: Pide  o prezo do primeiro producto
 
 
-# Pide o prezo do terceiro producto
+:: Pide  o prezo do segundo producto
 
 
-# Mostra na pantalla a suma dos tres prezos
+:: Pide o prezo do terceiro producto
 
-# Envía a un ficheiro chamado tiquet.txt o resultado da compra
+
+:: Mostra na pantalla a suma dos tres prezos
+
+:: Envía a un ficheiro chamado tiquet.txt o resultado da compra
