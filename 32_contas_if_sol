@@ -1,0 +1,20 @@
+@echo off
+:::::::::::::::::::::::::::::::
+::
+:: Código para analizar
+::
+::::::::::::::::::::::::::::::::
+
+set /P varNova="numerito: "
+set /P resposta="Que prefires + ou * "
+
+if %resposta%==+ (
+	set /A total=%varNova%+100
+)
+
+if %resposta%==* (
+	set /A total=%varNova%*100
+)
+
+echo %total%
+pause
