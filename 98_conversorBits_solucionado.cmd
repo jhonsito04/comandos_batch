@@ -51,9 +51,10 @@ if %varFich%==s (
 	echo convertiuse a >> resultado.txt
 	echo %total% >> resultado.txt
 	if exist resultado.txt (echo Ficheiro gardado)
-)
+) else set /p varSeg= "Esta seguro de que non quere enviar o resultado a uno arquivo.Pulse "si" para gardar, ou "non" para volver atras:     "
+if %varSeg%==si echo Adeus
+if %varSeg%==non echo %total% >> resultado.txt
+if %varSeg%==non if exist resultado.txt (echo Ficheiro gardado)
 
 
 pause
-
-
